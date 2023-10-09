@@ -1,4 +1,4 @@
-package HW3;
+package FinalWork;
 
 import java.util.Scanner;
 
